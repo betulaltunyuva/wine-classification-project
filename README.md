@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🍷 Wine Classification & Model Comparison
+#  Wine Classification & Model Comparison
 
 A machine learning project that compares multiple classification algorithms on the Wine dataset and provides an interactive prediction application built with Streamlit.
 
